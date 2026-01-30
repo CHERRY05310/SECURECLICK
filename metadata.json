@@ -1,0 +1,7 @@
+{
+  "name": "SAFECLICK – Social Engineering Awareness & Detection",
+  "description": "A modern security platform for social engineering education, AI-powered threat detection, and legal awareness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
